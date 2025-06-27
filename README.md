@@ -4,6 +4,6 @@ requires `build-devel` & some sort of aur helper (yay?)
 
 ## Build
 - `cd` into package directory
-- `makepkg -si` or 
+- `makepkg -si`
 
 [Vikunja-git](/vikunja-git)
